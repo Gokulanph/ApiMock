@@ -1,5 +1,6 @@
 {
-	"App": [{
+	"App": [
+		"LogixConnect": {
 			"AppName": "LogixConnect",
 			"DisplayName": "Logix Connect",
 			"LogoSVGName": "icon-LogixConnect-vis",
@@ -8,7 +9,7 @@
 			"ReleaseVersion": "2.0.2",
 			"BackGroundImageUrl": ""
 		},
-		{
+		"LogixStaffing": {
 			"AppName": "LogixStaffing",
 			"DisplayName": "Logix Staffing",
 			"LogoSVGName": "icon-LogixStaffing",
@@ -17,7 +18,7 @@
 			"ReleaseVersion": "2.0.2",
 			"BackGroundImageUrl": ""
 		},
-		{
+		"LogixFeedback": {
 			"AppName": "LogixFeedback",
 			"DisplayName": "icon-LogixFeedback",
 			"LogoSVGName": "",
