@@ -1,0 +1,31 @@
+[
+App: [
+{
+    "AppName" : "LogixConnect";
+    "DisplayName" : "Logix Connect";
+    "LogoSVGName" : "icon-LogixConnect-vis";
+    "AppUrl" : "www.google.com";
+    "DisplayVersion" : "1.0.0";
+    "ReleaseVersion" : "2.0.2";
+    "BackGroundImageUrl" : "";
+},
+{
+    "AppName" : "LogixStaffing";
+    "DisplayName" : "Logix Staffing";
+    "LogoSVGName" : "icon-LogixStaffing";
+    "AppUrl" : "www.google.com";
+    "DisplayVersion" : "1.0.0";
+    "ReleaseVersion" : "2.0.2";
+    "BackGroundImageUrl" : "";
+},
+{
+    "AppName" : "LogixFeedback";
+    "DisplayName" : "icon-LogixFeedback";
+    "LogoSVGName" : "";
+    "AppUrl" : "www.google.com";
+    "DisplayVersion" : "1.0.0";
+    "ReleaseVersion" : "2.0.2";
+    "BackGroundImageUrl" : "";
+}
+]
+]
