@@ -1,7 +1,7 @@
 {
 	"App": [
 		{
-			"Id": "LogixConnect",
+			"id": "LogixConnect",
 			"AppName": "LogixConnect",
 			"DisplayName": "Logix Connect",
 			"LogoSVGName": "icon-LogixConnect-vis",
@@ -11,7 +11,7 @@
 			"BackGroundImageUrl": ""
 		},
 		{
-			"Id": "LogixStaffing",
+			"id": "LogixStaffing",
 			"AppName": "LogixStaffing",
 			"DisplayName": "Logix Staffing",
 			"LogoSVGName": "icon-LogixStaffing",
@@ -21,7 +21,7 @@
 			"BackGroundImageUrl": ""
 		},
 		{
-			"Id": "LogixFeedback",
+			"id": 3,
 			"AppName": "LogixFeedback",
 			"DisplayName": "icon-LogixFeedback",
 			"LogoSVGName": "",
