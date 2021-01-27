@@ -8,7 +8,7 @@
 			"AppUrl": "www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
-			"BackGroundImageUrl": ""
+			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
 		},
 		{
 			"id": "LogixStaffing",
@@ -18,7 +18,7 @@
 			"AppUrl": "www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
-			"BackGroundImageUrl": ""
+			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
 		},
 		{
 			"id": 3,
@@ -28,7 +28,18 @@
 			"AppUrl": "www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
-			"BackGroundImageUrl": ""
+			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
+		}
+	],
+	"User": [
+		{
+		    "id": "c462a361-bbeb-4bca-ac26-e1ee9325e16b",
+		    "UserGuid": "c462a361-bbeb-4bca-ac26-e1ee9325e16b",
+		    "FirstName": "Gokul",
+		    "SecondName": "P H",
+		    "DisplayName": "Gokul",
+		    "Email": "gharidas@mailinator.com",
+		    "Organization": "LHI"
 		}
 	]
 }
