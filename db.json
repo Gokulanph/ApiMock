@@ -41,5 +41,17 @@
 		    "Email": "gharidas@mailinator.com",
 		    "Organization": "LHI"
 		}
-	]
+	],
+      "ListGroup": [
+	      {
+		    "id": "CtSubjectGroup",
+		    "ListGroupName": "CtSubjectGroup",
+		    "ListItem": [
+			    {"Key": "GEIN"},{"Value": "General information"},{"Order": "1"},
+			    {"Key": "IDHU"},{"Value": "I don't have a username"},{"Order": "2"},
+			    {"Key": "LOTR"},{"Value": "Login trouble"},{"Order": "3"}
+			    {"Key": "OTH"},{"Value": "Other..."},{"Order": "4"}
+		    ]  
+	      }
+      ],
 }
