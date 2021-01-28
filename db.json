@@ -44,8 +44,8 @@
 	],
       "ListGroup": [
 	      {
-		    "id": "CtSubjectGroup",
-		    "ListGroupName": "CtSubjectGroup",
+		    "id": "ConnectSubjectGroup",
+		    "ListGroupName": "ConnectSubjectGroup",
 		    "ListItem": [
 			    {"Key": "GEIN"},{"Value": "General information"},{"Order": "1"},
 			    {"Key": "IDHU"},{"Value": "I don't have a username"},{"Order": "2"},
