@@ -5,7 +5,7 @@
 			"AppName": "LogixConnect",
 			"DisplayName": "Logix Connect",
 			"LogoSVGName": "icon-LogixConnect-vis",
-			"AppUrl": "www.google.com",
+			"AppUrl": "https://www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
 			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
@@ -15,7 +15,7 @@
 			"AppName": "LogixStaffing",
 			"DisplayName": "Logix Staffing",
 			"LogoSVGName": "icon-LogixStaffing",
-			"AppUrl": "www.google.com",
+			"AppUrl": "https://www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
 			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
@@ -25,7 +25,7 @@
 			"AppName": "LogixFeedback",
 			"DisplayName": "icon-LogixFeedback",
 			"LogoSVGName": "",
-			"AppUrl": "www.google.com",
+			"AppUrl": "https://www.google.com",
 			"DisplayVersion": "1.0.0",
 			"ReleaseVersion": "2.0.2",
 			"BackGroundImageUrl": "https://scripts.logixhealth.com/media/images/photos/lh-col-flowers-blue.jpg"
