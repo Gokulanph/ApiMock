@@ -53,5 +53,17 @@
 			    {"Key": "OTH","Value": "Other...","Order": "4"}
 		    ]  
 	      }
-      ]
+      ],
+    "Report": [	
+	    {
+	       "From": "string",
+    	       "ToList": [],
+     	       "CC": [],
+    	       "BCC": [],
+    	       "Subject": "",
+    	       "TemplateName": "",
+    	       "TemplateVersion": "",
+    	       "TokenData": []  
+	    }
+    ]
 }
